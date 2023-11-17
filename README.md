@@ -14,7 +14,7 @@
   It is deployed on Amazon Web Services (AWS) and hosted on GitHub for version control and collaboration.
 </h3>
 
-<h4>Demo-link -- http://51.20.106.243:8000/</h4>
+
 
 <h4>Demo-link -- https://e-commerce-65t4.onrender.com//</h4>
 
