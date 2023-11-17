@@ -16,7 +16,7 @@
 
 
 
-<h4>Demo-link -- https://e-commerce-65t4.onrender.com//</h4>
+<h4>Demo-link -- https://e-commerce-65t4.onrender.com</h4>
 
 
 <h3>Used Technolgies</h3>
