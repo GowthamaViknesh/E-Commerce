@@ -14,8 +14,8 @@ body {
 /* Navbar */
 
 .navbar {
-  background-color: transparent;
-  color: #232f3e;
+  background-color: #232f3e;
+  color: white;
 }
 
 .nav-image {
@@ -634,4 +634,11 @@ ul.CTAs a {
 .review_user {
   font-size: 0.8rem;
   color: grey;
+}
+
+.image-fluid {
+  width: 90%;
+  height: 60%;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }

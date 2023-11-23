@@ -44,9 +44,9 @@ export default function Header() {
                   src={user.avatar ?? './images/default_avatar.png'}
                 />
               </figure>
-              <span style={{ color: 'black' }}>{user.name}</span>
+              <span style={{ color: 'White' }}>{user.name}</span>
             </Dropdown.Toggle>
-            <Dropdown.Menu style={{ color: 'black' }}>
+            <Dropdown.Menu style={{ color: 'White' }}>
               {user.role === 'admin' && (
                 <Dropdown.Item
                   onClick={() => {
@@ -84,7 +84,7 @@ export default function Header() {
           </Link>
         )}
         <Link to='/cart'>
-          <span id='cart' style={{ color: 'black' }} className='ml-3'>
+          <span id='cart' style={{ color: 'White' }} className='ml-3'>
             Cart
           </span>
         </Link>
