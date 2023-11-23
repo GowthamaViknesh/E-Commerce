@@ -84,7 +84,7 @@ export default function Header() {
           </Link>
         )}
         <Link to='/cart'>
-          <span id='cart' style={{ color: 'White' }} className='ml-3'>
+          <span id='cart' style={{ color: 'black' }} className='ml-3'>
             Cart
           </span>
         </Link>
