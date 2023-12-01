@@ -14,6 +14,11 @@
   It is deployed on Amazon Web Services (AWS) and hosted on GitHub for version control and collaboration.
 </h3>
 
+<h4>Note: 
+
+This e-commerce site offers complete user authentication, including login, logout, password updates, and resets through the MAILTRAP service. Users can shop for items, submit reviews and ratings, and make secure payments using the STRIPE API (for card payments, select any foreign country in the shipping section and refresh the card payment page if the UI doesn't appear; preferred card number: "4242424242424242").
+
+</h4>
 
 
 <h4>Demo-link -- https://e-commerce-65t4.onrender.com</h4>
